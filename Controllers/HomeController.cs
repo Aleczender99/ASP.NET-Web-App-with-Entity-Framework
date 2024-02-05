@@ -25,6 +25,7 @@ namespace Entity.Controllers
                 LastName = "Alex",
                 FirstName = "Ciau",
                 Email = "ciau@google.com",
+                Password = "1234",
                 DateCreated = DateTime.Now,
             };
 
